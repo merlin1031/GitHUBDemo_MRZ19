@@ -5,3 +5,5 @@ neue Zeile = neue Änderung
 und was löschen geht auch !!!!
 
 so im nächsten Schritt soll dann der Branch Nudelhalter in den MasterBranch gemerged werden
+
+So Teil ist jetzt fertig konstruiert, also Version 1.0
