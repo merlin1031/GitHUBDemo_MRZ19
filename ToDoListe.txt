@@ -1,0 +1,8 @@
+1. Repository auf GitHub erstellen
+2. lokales Git-Repositors erstellen / bzw. von GitHub clonen
+
+3. am Projekt arbeiten
+
+4. Branch erstellen und Änderungen commiten
+5. Änderungen regelmäßig pushen
+6. wieder zu Punkt 3 springen
